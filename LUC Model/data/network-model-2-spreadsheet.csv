@@ -1,0 +1,12 @@
+"BehaviorSpace results (NetLogo 6.1.1)"
+"12:2:21.nlogo"
+"network-model-2"
+"02/17/2021 10:47:53:259 +0000"
+"min-pxcor","max-pxcor","min-pycor","max-pycor"
+"0","220","0","190"
+"[run number]","1","2","3","4","5","6","7","8","9","10"
+"network-influence?","true","true","true","true","true","false","false","false","false","false"
+"[steps]","30","30","30","30","30","30","30","30","30","30"
+
+"[initial & final values]","trees-planted-hectares + crops-planted-hectares","trees-planted-hectares + crops-planted-hectares","trees-planted-hectares + crops-planted-hectares","trees-planted-hectares + crops-planted-hectares","trees-planted-hectares + crops-planted-hectares","trees-planted-hectares + crops-planted-hectares","trees-planted-hectares + crops-planted-hectares","trees-planted-hectares + crops-planted-hectares","trees-planted-hectares + crops-planted-hectares","trees-planted-hectares + crops-planted-hectares"
+,"19000","18650","19450","19300","18300","9300","9700","7900","11700","7800"

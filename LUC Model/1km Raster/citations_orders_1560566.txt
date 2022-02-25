@@ -1,0 +1,14 @@
+The citations in this document should be used to reference the maps and data
+when they have been included in any essays, dissertations or other academic
+works. You should cite the data even if it doesn't appear as an image or map
+in your work if it has been used to generate findings or a new dataset that is
+used.
+
+There is one entry for each product and selected area; you can edit the
+citation if you only use part of the data it covers. Any citations provided
+below are a guide only and should be given in addition to any requirement to
+acknowledge sources and copyright of any data used or any local guidance
+provided:
+
+Land Cover Map 2015 [TIFF geospatial data], Scale 1:10000000, Tiles: GB, Updated: 5 April 2017, CEH, Using: EDINA Environment Digimap Service, <https://digimap.edina.ac.uk>, Downloaded: 2020-09-30 18:01:39.757
+
